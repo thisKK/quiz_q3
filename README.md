@@ -1,4 +1,4 @@
 # quiz_q3
 
-run buy
+RUN IN COMMAND LINE
 `node index.js BM70SSF`
